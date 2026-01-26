@@ -1,4 +1,5 @@
 <h1 align="center">🫡Whassup! How's it going?</h1>
+<h2 align="center">My name is IvNetCoder and welcome to my GitHub profile!</h2>
 <br>
 <h2 align="left">😋Some information about me:</h2>
 
