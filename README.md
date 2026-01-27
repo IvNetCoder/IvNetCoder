@@ -1,4 +1,4 @@
-<h1 align="center">🫡Whassup! How's it going?</h1>
+<h1 align="center">🫡 Whassup! How's it going?</h1>
 <h3 align="center">My name is IvNetCoder and welcome to my GitHub profile!</3>
 <br>
 <br>
