@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on Machine Learning Development
 - 🌱 I’m currently learning [Python](https://www.python.org/), [Java](https://www.java.com/en/), [Linux](https://www.linuxfoundation.org/), [Linear Algebra](https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/)
-- 🔎 I'm interested in Robots and Space [probes](https://en.wikipedia.org/wiki/Voyager_1) and [satellites](https://satellitemap.space/)
+- 🔎 I'm interested in [Robots](https://www.tesla.com/en_eu/AI) and Space [probes](https://en.wikipedia.org/wiki/Voyager_1) and [satellites](https://satellitemap.space/)
 
 <h2 align="left">🌐How to reach me::</h2>
 <p align="left">
