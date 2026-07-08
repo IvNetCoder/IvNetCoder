@@ -10,7 +10,7 @@
 
 <h2 align="left">🌐How to reach me:</h2>
 <p align="left">
-<a href="https://instagram.com/_ivnetcoder_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ivnetcoder" height="50" width="40" /></a>
+<a href="https://instagram.com/tensorex1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ivnetcoder" height="50" width="40" /></a>
 <a href="https://discord.com/users/1159919084058726492/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ivnetcoder" height="55" width="70" /></a>
 </p>
 
