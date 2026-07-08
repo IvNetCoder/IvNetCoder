@@ -5,10 +5,10 @@
 <h2 align="left">😋Some information about me:</h2>
 
 - 🔭 I’m currently working on Deep Learning Development
-- 🌱 I’m currently learning [PyTorch]([https://www.java.com/en/](https://learn.deeplearning.ai/specializations/pytorch-for-deep-learning-professional-certificate?startTime=0)), [Mathematics for Machine Learning and Data Science]([https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/](https://learn.deeplearning.ai/specializations/mathematics-for-machine-learning-and-data-science)), [Linux](https://www.linuxfoundation.org/),
+- 🌱 I’m currently learning [PyTorch](https://learn.deeplearning.ai/specializations/pytorch-for-deep-learning-professional-certificate?startTime=0), [Mathematics for Machine Learning and Data Science](https://learn.deeplearning.ai/specializations/mathematics-for-machine-learning-and-data-science), [Linux](https://www.linuxfoundation.org/)
 - 🔎 I'm interested in [Robots](https://www.tesla.com/en_eu/AI), [Neural Networks](https://www.ibm.com/think/topics/neural-networks#741977106) and [Satellites](https://satellitemap.space/)
 
-<h2 align="left">🌐How to reach me::</h2>
+<h2 align="left">🌐How to reach me:</h2>
 <p align="left">
 <a href="https://instagram.com/_ivnetcoder_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ivnetcoder" height="50" width="40" /></a>
 <a href="https://discord.com/users/1159919084058726492/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ivnetcoder" height="55" width="70" /></a>
