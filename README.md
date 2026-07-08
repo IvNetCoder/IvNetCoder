@@ -1,12 +1,12 @@
 <h1 align="center">🫡 Whassup! How's it going?</h1>
-<h3 align="center">My name is TensorEx and welcome to my GitHub profile!</3>
+<h3 align="center">My name is tensorex and welcome to my GitHub profile!</3>
 <br>
 <br>
 <h2 align="left">😋Some information about me:</h2>
 
-- 🔭 I’m currently working on Machine Learning Development
-- 🌱 I’m currently learning [Python](https://www.python.org/), [Java](https://www.java.com/en/), [Linux](https://www.linuxfoundation.org/), [Linear Algebra](https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/)
-- 🔎 I'm interested in [Robots](https://www.tesla.com/en_eu/AI) and Space [probes](https://en.wikipedia.org/wiki/Voyager_1) and [satellites](https://satellitemap.space/)
+- 🔭 I’m currently working on Deep Learning Development
+- 🌱 I’m currently learning [PyTorch]([https://www.java.com/en/](https://learn.deeplearning.ai/specializations/pytorch-for-deep-learning-professional-certificate?startTime=0)), [Mathematics for Machine Learning and Data Science]([https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/](https://learn.deeplearning.ai/specializations/mathematics-for-machine-learning-and-data-science)), [Linux](https://www.linuxfoundation.org/),
+- 🔎 I'm interested in [Robots](https://www.tesla.com/en_eu/AI), [Neural Networks](https://www.ibm.com/think/topics/neural-networks#741977106) and [Satellites](https://satellitemap.space/)
 
 <h2 align="left">🌐How to reach me::</h2>
 <p align="left">
