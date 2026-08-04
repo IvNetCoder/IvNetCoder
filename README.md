@@ -51,6 +51,3 @@
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev quote" />
 </p>
-
----
-<p align="center"><i>⭐️ From <a href="https://github.com/tensorex">tensorex</a></i></p>
