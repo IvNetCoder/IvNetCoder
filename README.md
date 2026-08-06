@@ -13,7 +13,7 @@
 🔭 &nbsp;I'm currently working on **Deep Learning Development**  
 🌱 &nbsp;I'm currently learning **PyTorch and Neuroscience**  
 😄 &nbsp;Pronouns: **he/him**        
-🔎 &nbsp;Interests: [UAVs](https://www.ga-asi.com/remotely-piloted-aircraft/mq-9a), [Neural Networks](https://www.ibm.com/think/topics/neural-networks#741977106), [Satellites](https://satellitemap.space/) and others
+🔎 &nbsp;Interests: [UAVs](https://www.ga-asi.com/remotely-piloted-aircraft/mq-9a), [Neural Networks](https://www.ibm.com/think/topics/neural-networks#741977106), [Aircrafts](https://chucksguides.com/aircraft/dcs/fa-18c/) and others
 
 ### 🛠️ Tech Stack
 
